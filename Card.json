@@ -9,7 +9,7 @@
 				}],
 				"labels": [{
 					"color": { "solid": { "color": "#000000"}},
-					"labelDisplayUnits": "0",
+					"labelDisplayUnits": 0,
 					"labelPrecision": 0,
 					"fontSize": 10,
 					"fontFamily": "Verdana"
@@ -45,3 +45,4 @@
 		}
 	}
 }
+
